@@ -18,18 +18,22 @@ The tracers are the following :
 
 All Land 
 North Pole (60°N to 90°N)
+
 Northern mid-latitude (20°N to 60°N)
 •     North America (180°W to 20°W)
 •     Europe and northern Africa (20°W to 60°E)
 •     Eastern Asia (60°E to 180°E)
+
 Tropics / low latitudes (-20°N to 20°N)
 •     Central and South America (180°W to 20°W)
 •     Central Africa (20°W to 60°E)
 •     Maritime continent (60°E to 180°E)
+
 Southern mid-latitude (-20°N to -60°N)
 •     South America (180°W to 20°W)
 •   South Africa (20°W to 60°E)
 •     Australia (60°E to 180°E)
+
 South pole (-60°N to -90°N)
 
 
