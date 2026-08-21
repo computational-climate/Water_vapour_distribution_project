@@ -35,7 +35,7 @@ South pole (-60°N to -90°N)
 
 4. Python files contents:
 ·      Sanity_checks :
-This file allows to verify the coherence of the result, via several checks. It also compare the impact of integration functions and store intregrated data  in ‘Vert_int_output’ for all the tracers (last cell).
+This file allows to verify the coherence of the result, via several checks. It also compare the impact of integration functions and store intregrated data  in ‘Vert_int_output’ for all the tracers (last cell). A empty folder with this name in therefore necessary 
 NB : It is NECESSARY to run this file at least once (or to copy the cell and run it in another file) since the other files are calling the stored data
 
 ·      Spatial_dimension_focus:
